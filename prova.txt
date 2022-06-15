@@ -1,0 +1,10 @@
+____________________________________________________________________________
+Il codice delle lastre di carbonio  e' : 222, e valgono 23.30$ l'una
+Il codice delle lastre di ergal  e'    : 223, e valgono 15.50$ l'una
+Il codice delle lastre di acciaio  e'  : 227, e valgono 12.80$ l'una
+Il codice delle lastre di alluminio  e': 228, e valgono 17.40$ l'una
+Il codice dei tubi di ottone  e'       : 306, e valgono 13.30$ l'una
+Il codice dei tubi di acciacio      e' : 307, e valgono 11.90$ l'una
+Il codice deli tubi di alluminio  e'   : 308, e valgono 9.80$ l'una
+Il codice dei tubi di rame  e'         : 309, e valgono 10.70$ l'una
+_________________________________________________________________________________
