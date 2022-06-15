@@ -1,0 +1,6 @@
+Benvenuti nel programma gestionale della FGML.srl, questo sistema vi permette di gestire e visualizzare tutto quello che serve riguardo la vita in un magazzino di un negozio di materiali da costruzione;                              Ecco una piccola guida su come funziona il programma. Il sistema ha 3 funzioni principali:
+M per modificare le quantita degli oggetti presenti in magazzino.
+V per visualizzare l'intero contenuto del magazzino.
+L per visualizzare il listino degli oggetti presenti in magazzino con relativi codici.
+S per uscire dal sistema.
+
